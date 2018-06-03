@@ -1,14 +1,14 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: сайт художника, картины, галерея
-email: mikitenko_vitya@mail.ru
+email: mikitenkovitya@gmail.com
 brand: Виктор Микитенко
 headline: Художник, Архитектор
 description: > # this means to ignore newlines until "baseurl:"
   Сайт художника Виктора Микитенко, картины, галерея, живопись и архитектура
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mikitenko.org.ua" # the base hostname & protocol for your site
-copyright: 2016 Виктор Микитенко
+copyright: 2016-2018 Виктор Микитенко
 
 # Build settings
 markdown: kramdown
